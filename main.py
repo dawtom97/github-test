@@ -7,6 +7,9 @@ print(secret)
 
 nowa = "nowa zmienna"
 
+print("jeszcze jeden print")
+
+
 
 
 
