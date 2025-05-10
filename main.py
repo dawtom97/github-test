@@ -9,7 +9,7 @@ nowa = "nowa zmienna"
 
 print("jeszcze jeden print")
 
-
+print("10.05.2025 14:15")
 
 
 
